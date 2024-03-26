@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning react-native,Django
+- 👯 I’m looking to collaborate on web development
+- 🤔 I’m looking for help with ML.
+- 💬 Ask me about myself and projects.
 <!--
 **athisayathasanthomars/athisayathasanthomars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
