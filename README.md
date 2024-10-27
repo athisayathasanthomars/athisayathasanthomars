@@ -2,7 +2,7 @@
 
      Athisayathasan Thomars Thuvarangan
     
-- 🌱 I’m currently learning react-native,Django
+- 🌱 I’m currently learning React,Django & Spring Boot
 - 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking for help with ML.
 - 💬 Ask me about myself and projects.
