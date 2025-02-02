@@ -2,9 +2,9 @@
 
      Athisayathasan Thomars Thuvarangan
     
-- 🌱 I’m currently learning React,Django & Spring Boot
+- 🌱 I’m currently learning Angular,Django & Spring Boot
 - 👯 I’m looking to collaborate on web development
-- 🤔 I’m looking for help with ML.
+- 🤔 I’m looking for help with ML-Python & Data Analysis-R.
 - 💬 Ask me about myself and projects.
 <!--
 **athisayathasanthomars/athisayathasanthomars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
