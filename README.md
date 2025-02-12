@@ -3,7 +3,7 @@
      Athisayathasan Thomars Thuvarangan
     
 - 🌱 I’m currently learning Angular,Django & Spring Boot etc.
-- 👯 I’m looking to collaborate on back-end development
+- 👯 I’m looking to collaborate on back-end development.
 - 🤔 I’m looking for help with ML-Python & Data Analysis-R.
 - 💬 Ask me about myself and projects.
 <!--
