@@ -1,6 +1,6 @@
 ###### 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 👋
 # 💫 About Me:
-- 🌱 I’m currently learning Angular,Django & Spring Boot.
+- 🌱 I’m currently learning Data Engineering and Analytics.
 - 👯 I’m looking to collaborate on Back-End development.
 - 🤔 I’m looking for help with ML & Deep Learning.
 - 💬 Ask me about myself and projects.
